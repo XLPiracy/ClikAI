@@ -1,6 +1,6 @@
 [
-  { "title": "Post 1", "labels": ["category1", "india"] },
-  { "title": "Post 2", "labels": ["category2", "usa"] },
+  { "title": "India Country", "labels": ["Drug", "India"] },
+  { "title": "USA Country", "labels": ["Food", "USA", "India"] },
   { "title": "Post 3", "labels": ["category1", "india"] },
   { "title": "Post 4", "labels": ["category2", "india"] },
   { "title": "Post 5", "labels": ["category1", "usa"] }
