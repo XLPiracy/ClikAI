@@ -1,7 +1,8 @@
-[
-  { "title": "India Country", "labels": ["Drug", "India"] },
-  { "title": "USA Country", "labels": ["Food", "USA", "India"] },
-  { "title": "Post 3", "labels": ["category1", "india"] },
-  { "title": "Post 4", "labels": ["category2", "india"] },
-  { "title": "Post 5", "labels": ["category1", "usa"] }
-]
+{
+  "greetings": ["Hello!", "Hi there!", "Greetings!"],
+  "responses": {
+    "how_are_you": ["I'm good, thank you!", "Feeling great!", "All good on my end!"],
+    "favorite_color": ["I don't have a favorite color. What's yours?", "Colors are fascinating! Do you have a favorite?"]
+  },
+  "fallback": "I'm sorry, I didn't understand that. Can you please rephrase?"
+}
